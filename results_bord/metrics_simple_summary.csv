@@ -1,0 +1,2 @@
+﻿IOU_THR,ARROW_THR_diag_frac,rect_precision,rect_recall,rect_f1,rect_TP,rect_FP,rect_FN,arrow_precision,arrow_recall,arrow_f1,arrow_TP,arrow_FP,arrow_FN
+0.5,0.03,0.0,0.0,0.0,0,95,126,0.012658227848101266,0.00819672131147541,0.009950248756218905,1,78,121
