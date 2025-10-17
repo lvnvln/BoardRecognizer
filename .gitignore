@@ -25,3 +25,5 @@ Text_dataset_lines_for_CER_WER/
 *.tmp
 *.bak
 ~$*
+
+anaconda_projects/
